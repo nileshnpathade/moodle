@@ -1,2 +1,0 @@
-# moodle
-classroom plugin development
