@@ -23,6 +23,8 @@
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
+
+// comments 
 require_once('../../../config.php');
 require_once(dirname(__FILE__).'/add_classroom_form.php');
 global $CFG, $DB, $PAGE;
